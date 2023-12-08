@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1702063879420" clover="3.2.0">
+  <project timestamp="1702063879421" name="All files">
+    <metrics statements="15" coveredstatements="15" conditionals="13" coveredconditionals="10" methods="1" coveredmethods="1" elements="29" coveredelements="26" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
+    <file name="calc.js" path="C:\Users\klleriston_calriz\dev\DoDev\Node\calc.js">
+      <metrics statements="15" coveredstatements="15" conditionals="13" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <line num="12" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="21" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="24" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="30" count="1" type="cond" truecount="2" falsecount="3"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
